@@ -1,1 +1,2 @@
-require('esm')(module, {})('./inspect.js')
+export default function foo() {}
+module.exports.bar = {}

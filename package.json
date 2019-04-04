@@ -1,6 +1,5 @@
 {
-  "private": true,
   "dependencies": {
-    "esm": "3.2.12"
+    "esm": "^3.2.22"
   }
 }
